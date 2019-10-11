@@ -3,5 +3,8 @@ task :hello do
   puts "hello from Rake!"
 end
 
-namespace: greeting 
+namespace :greeting do 
+
+  
+end 
   
